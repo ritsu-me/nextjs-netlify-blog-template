@@ -16,7 +16,7 @@ export default function Index() {
             Hi, I'm Ritsu Yuzaki<span className="fancy">.</span>
           </h1>
           <span className="handle">@ritsu_me</span>
-          <h2>[<span className="fancy">/////</span>_____]</h2>
+          <h2>I'm posting some articles<span className="fancy">.</span></h2>
           <SocialList />
         </div>
       </div>
